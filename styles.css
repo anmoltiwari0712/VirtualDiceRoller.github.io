@@ -1,0 +1,54 @@
+body {
+  background-color: #393E46;
+}
+
+.container{
+  text-align: center;
+
+}
+
+h1{
+  font-family: 'Chakra Petch', sans-serif;
+  font-size: 30px;
+  color: #4ECCA3;
+  margin-top: 20px;
+  text-align: center;
+}
+
+h5{
+  font-family: 'Chakra Petch', sans-serif;
+  color: #4ECCA3;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+p {
+  font-size: 2rem;
+  margin: 10px;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+.img1{
+  width: 65%;
+  text-align: center;
+}
+
+.button{
+  margin-top: 30px;
+  text-align: center;
+}
+
+.btn{
+  background-color: #4ECCA3;
+}
+
+.foot{
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+  color: white;
+}
